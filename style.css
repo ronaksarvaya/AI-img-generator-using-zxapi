@@ -1,0 +1,13 @@
+.menu-items{
+    padding-left: 1rem; /* px-4 */
+    padding-right: 1rem; /* px-4 */
+    padding-top: 0.5rem; /* py-2 */
+    padding-bottom: 0.5rem; /* py-2 */
+    font-weight: 600; /* font-semibold */
+    color: #d1d5db; /* text-gray-300 */
+    transition: color 0.3s ease; /* transition duration-300 */
+}
+
+.menu-items:hover {
+    color: white; /* hover:text-white */
+  }
